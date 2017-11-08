@@ -6,5 +6,6 @@ public class Main {
         System.out.println("jeszcze coś dopisuje");
         System.out.println("Siema");
         System.out.println("nowe dopisuje");
+        System.out.println("dupa");
     }
 }
